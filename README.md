@@ -1,4 +1,4 @@
-# Exercise
+# exercise-data-backfill
 You run a SaaS business to help restaurants keep track of their sales. Everytime a purchase is made, you collect some data about the transaction.
 
 Your client-side software had a bug last week that prevented it from collecting an important piece of information: the name of the restaurant.
