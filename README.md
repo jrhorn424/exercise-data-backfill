@@ -40,4 +40,4 @@ For the  `employeeId` to `restaurantName` mapping, your colleague sends you the 
 Use this information to backfill the `restaurantName` variable in the purchase_data table for the problematic purchases. Make sure to also mark
 corresponding record in the purchase table by setting it's status to "ok".
 
-To achieve your goal, you may write a script, manually run the SQL queries, use Excel or use any combination of methods you think will help you.
+To achieve your goal, you may write a script in any language (using any library) you want, do it with plain SQL queries, use Excel or use any combination of methods you think will help you.
