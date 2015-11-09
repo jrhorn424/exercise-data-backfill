@@ -44,7 +44,6 @@ Make sure to also mark corresponding record in the purchase table by setting its
 For security reasons, developers do not have access to production data, so you must come up with a solution that the company's
 systems administrator can apply to fix the data in production.
 
-To achieve your goal, you may write a script in any language (using any library) you want, do it with plain SQL queries,
-use Excel or use any combination of methods you think will help you.
+To achieve your goal, you may write a script in any language (using any library) you want, do it with plain SQL queries, or use any combination of methods you think will help you.
 
 Just remember, you must provide something that you can give to another tech-savvy person to apply to the production database.
